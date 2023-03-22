@@ -1,4 +1,4 @@
-data_dirs: [data/test]
+data_dirs: [/content/drive/MyDrive/vall-e/data/test/libri]
 
 model: ar-quarter
 batch_size: 1
